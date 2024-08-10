@@ -21,7 +21,7 @@ Here is a series of AI-related events happening from 08/12/2024 to 08/18/2024 in
 
 - **Date**: Tuesday, August 13 · 5:30 - 8:30pm PDT
 - **Hosts**: Open Future Forum
-- **Location**: Fort Point Valencia742 Valencia St, San Francisco, CA 94110, USA San Francisco, CA 94110Show map
+- **Location**: Fort Point Valencia
 - **Address**: 742 Valencia St, San Francisco, CA 94110, USA San Francisco, CA 94110
 - **Event Link**: https://www.eventbrite.com/e/ai-product-management-experts-tickets-945673814837?aff=erelexpmlt
 
@@ -42,7 +42,7 @@ Here is a series of AI-related events happening from 08/12/2024 to 08/18/2024 in
 
 - **Date**: Thursday, August 15 · 7 - 9pm EDT
 - **Hosts**: Kat Usop, MSHI
-- **Location**: Newark OnlineNewark Newark, NJShow map
+- **Location**: Newark Online
 - **Address**: Newark Newark, NJ
 - **Event Link**: https://www.eventbrite.com/e/techdoctortm-you-are-an-entrepreneur-navigating-digital-healthai-tickets-943549200057
 
@@ -53,7 +53,7 @@ Here is a series of AI-related events happening from 08/12/2024 to 08/18/2024 in
 
 - **Date**: Thursday, August 15 · 5:30 - 9pm PDT
 - **Hosts**: Swissnex in San Francisco
-- **Location**: San Francisco Chronicle901 Mission Street San Francisco, CA 94103Show map
+- **Location**: San Francisco Chronicle
 - **Address**: 901 Mission Street San Francisco, CA 94103
 - **Event Link**: https://www.eventbrite.com/e/mainstream-monotony-ai-in-journalism-storytelling-tickets-948420700847
 
@@ -85,7 +85,7 @@ Here is a series of AI-related events happening from 08/12/2024 to 08/18/2024 in
 
 - **Date**: Wednesday, August 14 · 5:30 - 8:30pm PDT
 - **Hosts**: Open Future Forum
-- **Location**: The Multiverse361 Lytton Avenue #100 Palo Alto, CA 94301Show map
+- **Location**: The Multiverse
 - **Address**: 361 Lytton Avenue #100 Palo Alto, CA 94301
 - **Event Link**: https://www.eventbrite.com/e/palo-alto-climate-tech-ai-salon-tickets-951084067047
 

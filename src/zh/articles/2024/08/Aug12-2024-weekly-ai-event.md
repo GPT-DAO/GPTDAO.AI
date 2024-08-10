@@ -21,7 +21,7 @@ contributors: false
 
 - **Date**: Tuesday, August 13 · 5:30 - 8:30pm PDT
 - **Hosts**: Open Future Forum
-- **Location**: Fort Point Valencia742 Valencia St, San Francisco, CA 94110, USA San Francisco, CA 94110Show map
+- **Location**: Fort Point Valencia
 - **Address**: 742 Valencia St, San Francisco, CA 94110, USA San Francisco, CA 94110
 - **Event Link**: https://www.eventbrite.com/e/ai-product-management-experts-tickets-945673814837?aff=erelexpmlt
 
@@ -42,7 +42,7 @@ contributors: false
 
 - **Date**: Thursday, August 15 · 7 - 9pm EDT
 - **Hosts**: Kat Usop, MSHI
-- **Location**: Newark OnlineNewark Newark, NJShow map
+- **Location**: Newark Online
 - **Address**: Newark Newark, NJ
 - **Event Link**: https://www.eventbrite.com/e/techdoctortm-you-are-an-entrepreneur-navigating-digital-healthai-tickets-943549200057
 
@@ -74,7 +74,7 @@ contributors: false
 
 - **Date**: Monday, August 12 · 4 - 6pm PDT
 - **Hosts**: Open Future Forum
-- **Location**: JOE & THE JUICE508 University Avenue Palo Alto, CA 94301Show map
+- **Location**: JOE & THE JUICE
 - **Address**: 508 University Avenue Palo Alto, CA 94301
 - **Event Link**: https://www.eventbrite.com/e/ai-b2b-and-b2c-investors-networking-tickets-940621142157?aff=erelexpmlt
 
@@ -85,7 +85,7 @@ contributors: false
 
 - **Date**: Wednesday, August 14 · 5:30 - 8:30pm PDT
 - **Hosts**: Open Future Forum
-- **Location**: The Multiverse361 Lytton Avenue #100 Palo Alto, CA 94301Show map
+- **Location**: The Multiverse
 - **Address**: 361 Lytton Avenue #100 Palo Alto, CA 94301
 - **Event Link**: https://www.eventbrite.com/e/palo-alto-climate-tech-ai-salon-tickets-951084067047
 
@@ -96,8 +96,7 @@ contributors: false
 
 - **Date**: Thursday, August 15 · 7 - 10pm WIBMore options
 - **Hosts**: Kat Usop, MSHI
-- **Location**: Algorythm Online Classroom. . Jakarta, 00000 IndonesiaShow map
-- **Address**: . . Jakarta, 00000 Indonesia
+- **Location**: Algorythm Online
 - **Event Link**: https://www.eventbrite.com/e/algorythmtm-gamifying-ai-systems-in-the-age-of-ai-tickets-635064804927
 
 ### 9. Data Futures Unveiled: AI, Delta Lake, and Data Governance Roadshow by C2S

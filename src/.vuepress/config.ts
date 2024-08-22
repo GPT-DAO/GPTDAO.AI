@@ -5,6 +5,17 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/",
 
+  head: [
+      [
+          "script",
+          "defer",
+        {
+          "src": "https://hello.gptdao.ai/script.js",
+          "data-website-id": "080fd6c3-92d9-46e2-9b4a-d46a6f17c682"
+        }
+      ]
+  ],
+
   locales: {
     "/": {
       lang: "en-US",

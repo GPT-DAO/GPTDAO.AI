@@ -19,12 +19,12 @@ export const enNavbar = navbar([
         {
             text: "GenAI Summit San Francisco 2024",
             icon: "/assets/images/sf2024.png",
-            link: "https://genaisummit.ai/"
+            link: "https://sf2024.genaisummit.ai/"
         },
         {
             text: "GenAI Summit Silicon Valley 2024",
             icon: "/assets/images/sv2024.png",
-            link: ""
+            link: "https://genaisummit.ai/"
         }
     ],
   },

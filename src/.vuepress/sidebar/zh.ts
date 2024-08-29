@@ -49,7 +49,7 @@ export const zhSidebar = sidebar([
       {
         text: "2024 硅谷生成式人工智能峰会",
         icon: "/assets/images/sv2024.png",
-        link: ""
+        link: "https://genaisummit.ai/"
       }
     ],
   },

@@ -49,7 +49,7 @@ export const enSidebar = sidebar([
       {
         text: "GenAI Summit Silicon Valley 2024",
         icon: "/assets/images/sv2024.png",
-        link: ""
+        link: "https://genaisummit.ai/"
       }
     ],
   },

@@ -4,15 +4,15 @@ category:
     - AI News
 tag:
     - Generative AI
-    - San Francisco Bay Area Events
+    - 旧金山湾区活动
 contributors: false
 ---
 
-# Top AI Events in the Bay Area in Week of 09/02 - 09/08 2024
+# 09/02 - 09/08 湾区 AI 领域活动精选
 
-Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in the San Francisco Bay Area. These events cover a range of activities from technical workshops to networking opportunities, providing you with an excellent chance to engage with AI experts, learn about the latest technologies, and explore new trends.
+以下是本周（09/02 - 09/08）旧金山湾区的一系列 AI 相关活动。这些活动涵盖了从技术研讨会到社交机会的各种活动，为您提供了与 AI 专家互动、了解最新技术和探索新趋势的绝佳机会。
 
-## Event Highlights
+## 精选活动
 
 ### 1. Gen AI Hackathon: Compound AI Systems
 
@@ -40,7 +40,7 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 ![](https://images.lumacdn.com/cdn-cgi/image/format=auto/event-covers/x9/7c8bff0c-9f94-486b-9b05-5587acfda6be)
 
 - **日期**: 09/03/2024 17:00 - 21:00
-- **主办方**: SF Bay Area Ruby Meetup 
+- **主办方**: SF Bay Area Ruby Meetup
 - **地址**: GitHub, San Francisco, California
 - **活动链接**: [https://lu.ma/qfyzbfkk](https://lu.ma/qfyzbfkk)
 
@@ -82,7 +82,6 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 - **日期**: Saturday, September 7 · 6 - 11am PDT
 - **主办方**: Bright Next Academy
 - **地点**: Register to see the address
-- **地址**: Register to see the address
 - **活动链接**: [https://www.eventbrite.com/e/ai-powered-leadership-transforming-tomorrows-leaders-today-tickets-984035896857?aff=ebdssbdestsearch](https://www.eventbrite.com/e/ai-powered-leadership-transforming-tomorrows-leaders-today-tickets-984035896857?aff=ebdssbdestsearch)
 
 ### 8. AI: distilled - Behind The Curtain
@@ -93,17 +92,13 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 - **日期**: Thursday, September 12 · 9:30 - 10am PDT
 - **主办方**: distillery
 - **地点**: Register to see the address
-- **地址**: Register to see the address
 - **活动链接**: [https://www.eventbrite.com/e/ai-distilled-behind-the-curtain-tickets-1001581305647?aff=ebdssbdestsearch](https://www.eventbrite.com/e/ai-distilled-behind-the-curtain-tickets-1001581305647?aff=ebdssbdestsearch)
 
 
-## Contact Us
+## 联系我们
 
-GPTDAO summarizes the most cutting-edge AI events for the upcoming week. We welcome everyone to follow us to get the latest AI event information. If you have any event information or suggestions, please feel free to contact us.
+GPTDAO 汇总了下周最前沿的 AI 活动。我们欢迎大家关注我们，获取最新的 AI 活动信息。如果您有任何活动信息或建议，请随时与我们联系。我们期待与大家一起交流和合作！
 
-We are looking forward to communicating and working with everyone together!
-
->**Disclaimer:** All events are found online (except those specifically organized by GPTDAO) and GPTDAO assumes no responsibility. Please read and assess event details carefully before participating or paying. Event-related issues are the responsibility of the organizers. Some images in this post are from the internet and their copyrights belong to the original authors.
-For reposting this article, permission from GPTDAO is required and full reposting is necessary. For copyright issues, please contact contact@gptdao.ai.
+> 免责声明： 所有活动信息均来源互联网（除特别标注的由 GPTDAO 特别组织的活动），GPTDAO 不承担任何责任。请在参加或支付前仔细阅读和评估活动详情。与活动相关的问题由组织者负责。本文中的部分图片来自互联网，版权归原作者所有，相关问题请联系 contact@gptdao.ai。
 
 <Share colorful />

@@ -82,7 +82,6 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 - **Date**: Saturday, September 7 · 6 - 11am PDT
 - **Hosts**: Bright Next Academy
 - **Location**: Register to see the address
-- **Address**: Register to see the address
 - **Event Link**: [https://www.eventbrite.com/e/ai-powered-leadership-transforming-tomorrows-leaders-today-tickets-984035896857?aff=ebdssbdestsearch](https://www.eventbrite.com/e/ai-powered-leadership-transforming-tomorrows-leaders-today-tickets-984035896857?aff=ebdssbdestsearch)
 
 ### 8. AI: distilled - Behind The Curtain
@@ -93,7 +92,6 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 - **Date**: Thursday, September 12 · 9:30 - 10am PDT
 - **Hosts**: distillery
 - **Location**: Register to see the address
-- **Address**: Register to see the address
 - **Event Link**: [https://www.eventbrite.com/e/ai-distilled-behind-the-curtain-tickets-1001581305647?aff=ebdssbdestsearch](https://www.eventbrite.com/e/ai-distilled-behind-the-curtain-tickets-1001581305647?aff=ebdssbdestsearch)
 
 

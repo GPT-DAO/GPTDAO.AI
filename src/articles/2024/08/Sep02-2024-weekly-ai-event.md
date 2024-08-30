@@ -21,7 +21,6 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 
 - **Date**: 09/06/2024 10:00 - 20:00
 - **Hosts**: Creators Corner
-- **Location**: 
 - **Address**: Register to see the address
 - **Event Link**: [https://lu.ma/i1x6rwe3](https://lu.ma/i1x6rwe3)
 
@@ -32,7 +31,6 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 
 - **Date**: 09/04/2024 18:00 - 21:00
 - **Hosts**: AI User Group
-- **Location**: 
 - **Address**: Spaces - California, San Francisco - Spaces Mission & 3rd, San Francisco, California
 - **Event Link**: [https://lu.ma/3lej9twf](https://lu.ma/3lej9twf)
 
@@ -43,7 +41,6 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 
 - **Date**: 09/03/2024 17:00 - 21:00
 - **Hosts**: SF Bay Area Ruby Meetup
-- **Location**: 
 - **Address**: GitHub, San Francisco, California
 - **Event Link**: [https://lu.ma/qfyzbfkk](https://lu.ma/qfyzbfkk)
 
@@ -54,7 +51,6 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 
 - **Date**: 09/03/2024 17:00 - 20:00
 - **Hosts**: Aiify.io (+partner) Events
-- **Location**: 
 - **Address**: Edge & Node House of Web3, San Francisco, California
 - **Event Link**: [https://lu.ma/9-3_Web3](https://lu.ma/9-3_Web3)
 
@@ -65,7 +61,6 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 
 - **Date**: 08/30/2024 16:00 - 18:00
 - **Hosts**: Hosted by Arjun Subedi & Murray
-- **Location**: 
 - **Address**: JOE & THE JUICE, Palo Alto, California
 - **Event Link**: [https://lu.ma/ogk4fo8a](https://lu.ma/ogk4fo8a)
 
@@ -76,7 +71,6 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 
 - **Date**: 09/07/2024 16:00 - 19:00
 - **Hosts**: Hosted by AI+
-- **Location**: 
 - **Address**: Palo Alto, Palo Alto, California
 - **Event Link**: [https://lu.ma/3tj45blp](https://lu.ma/3tj45blp)
 

@@ -21,7 +21,6 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 
 - **日期**: 09/06/2024 10:00 - 20:00
 - **主办方**: Creators Corner
-- **地点**: 
 - **地址**: Register to see the address
 - **活动链接**: [https://lu.ma/i1x6rwe3](https://lu.ma/i1x6rwe3)
 
@@ -32,7 +31,6 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 
 - **日期**: 09/04/2024 18:00 - 21:00
 - **主办方**: AI User Group
-- **地点**: 
 - **地址**: Spaces - California, San Francisco - Spaces Mission & 3rd, San Francisco, California
 - **活动链接**: [https://lu.ma/3lej9twf](https://lu.ma/3lej9twf)
 
@@ -42,8 +40,7 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 ![](https://images.lumacdn.com/cdn-cgi/image/format=auto/event-covers/x9/7c8bff0c-9f94-486b-9b05-5587acfda6be)
 
 - **日期**: 09/03/2024 17:00 - 21:00
-- **主办方**: SF Bay Area Ruby Meetup
-- **地点**: 
+- **主办方**: SF Bay Area Ruby Meetup 
 - **地址**: GitHub, San Francisco, California
 - **活动链接**: [https://lu.ma/qfyzbfkk](https://lu.ma/qfyzbfkk)
 
@@ -54,7 +51,6 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 
 - **日期**: 09/03/2024 17:00 - 20:00
 - **主办方**: Aiify.io (+partner) Events
-- **地点**: 
 - **地址**: Edge & Node House of Web3, San Francisco, California
 - **活动链接**: [https://lu.ma/9-3_Web3](https://lu.ma/9-3_Web3)
 
@@ -65,7 +61,6 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 
 - **日期**: 08/30/2024 16:00 - 18:00
 - **主办方**: Hosted by Arjun Subedi & Murray
-- **地点**: 
 - **地址**: JOE & THE JUICE, Palo Alto, California
 - **活动链接**: [https://lu.ma/ogk4fo8a](https://lu.ma/ogk4fo8a)
 
@@ -76,7 +71,6 @@ Here is a series of AI-related events happening from 09/02/2024 to 09/08/2024 in
 
 - **日期**: 09/07/2024 16:00 - 19:00
 - **主办方**: Hosted by AI+
-- **地点**: 
 - **地址**: Palo Alto, Palo Alto, California
 - **活动链接**: [https://lu.ma/3tj45blp](https://lu.ma/3tj45blp)
 

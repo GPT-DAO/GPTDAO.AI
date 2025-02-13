@@ -39,7 +39,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "The largest Generative AI DAO in the world.",
+        description: `Founded in late 2022 and headquartered in Silicon Valley, GPTDAO is the largest GenAI community in the U.S., uniting over 20,000 global tech elites, investors, and industry leaders to advance AI innovation. Since 2023, GPTDAO has hosted three GenAI Summit events—one of North America's top GenAI conferences—in partnership with Microsoft, Amazon, and Tesla, alongside 100+ tech forums with 50,000+ attendees. Notable speakers include the California Secretary of State, Glean’s Founder & CEO ($1B+ funded), and Llama 2 & 3’s core developers. With its global network and industry collaborations, GPTDAO is accelerating AI adoption, innovation, and ecosystem growth worldwide.`
       },
 
       metaLocales: {
@@ -62,7 +62,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "全球最大的生成式 AI 社区",
+        description: `GPTDAO成立于2022年底，总部位于硅谷，致力于打造全球领先的生成式AI（GenAI）社区与创新平台。如今，社区已汇聚超过20,000名成员，涵盖硅谷及全球范围内的科技精英、顶级投资人及各行业领军人物。作为全美规模最大的GenAI社区，GPTDAO的会员网络遍布全球，持续推动AI技术的应用与发展。自2023年以来，GPTDAO已成功举办三场GenAI Summit——北美最具影响力的生成式AI峰会，并携手微软、亚马逊、特斯拉等行业巨头共同推动AI生态建设。此外，社区还组织了100余场高端科技论坛，总参会人数超过50,000人。历届峰会与活动吸引了众多重量级嘉宾，包括加州参政部长、融资超十亿美元的Glean创始人兼CEO、Llama 2 & 3的核心研发者等，为全球AI从业者提供深度交流与合作机会。凭借独特的社区优势和资源，GPTDAO正加速构建全球AI生态，推动生成式AI技术的发展与应用，赋能下一代科技创新。`
       },
 
       // page meta
